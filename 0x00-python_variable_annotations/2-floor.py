@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """A math floor module."""
 
+
 def floor(n: float) -> int:
     """A math floor function."""
     if isinstance(n, int):
